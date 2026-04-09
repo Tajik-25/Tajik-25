@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, Im Tajik Tungi 👋
+Backend Developer from Arunachal Pradesh, India
+Im a self-taught developer specializing in building backend systems and AI- poweredapplications.
+## 🛠️ Tech Stack
+- **Language:**Python
+- **Backend:** FastAPI,REST APIs
+- **Database:** PostgreSQL(learning)
+- **Tools:** Git,Github,Pydantic
+## 🚀Currently
+-Building real-world fastapi projects
+-Learning postgreSQL and database integration
+- Working toward Rag and LLM agent development
+##📌Projects
+-FastAPI Product API** - full crud REST API with pydantic validation and business logic
+## 🎯Goal 
+Junior AI engineer at an AI startup by late 2026
+## 🛜 Connect
+Open to opportunities and collaborations
 
-<!--
-**Tajik-25/Tajik-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
