@@ -4,7 +4,7 @@
 - **Language:** Python
 - **Backend:** FastAPI,REST APIs
 - **Database:** PostgreSQL(learning)
-- **Tools:** Git,Github,Pydantic
+- **Tools:** Git, Github, Pydantic
 ## 🚀Currently
 -Building real-world fastapi projects
 -Learning postgreSQL and database integration
