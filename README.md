@@ -1,5 +1,5 @@
 # Hi, Im Tajik Tungi 👋
-"Self-taught backend developer from Arunachal Pradesh building production APIs with FastAPI and moving toward AI engineering.currently learning postgreSQL and LLM integration."
+"Backend developer from Arunachal Pradesh building production APIs with FastAPI and moving toward AI engineering.currently learning postgreSQL and LLM integration."
 ## 🛠️ Tech Stack
 - **Language:** Python
 - **Backend:** FastAPI,REST APIs
