@@ -1,6 +1,5 @@
 # Hi, Im Tajik Tungi 👋
-Backend Developer from Arunachal Pradesh, India
-Im a self-taught developer specializing in building backend systems and AI- powered applications.
+"Self-taught backend developer from Arunachal Pradesh building production APIs with FastAPI and moving toward AI engineering.currently learning postgreSQL and LLM integration."
 ## 🛠️ Tech Stack
 - **Language:** Python
 - **Backend:** FastAPI,REST APIs
