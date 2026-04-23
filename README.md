@@ -9,8 +9,18 @@
 -Building real-world fastapi projects
 -Learning postgreSQL and database integration
 - Working toward Rag and LLM agent development
-## 📌Projects
--FastAPI Product API** - full crud REST API with pydantic validation and business logic
+## 📌 Featured Projects
+🔷 FastAPI Task manager API
+- Built a task management system with status tracking(pending/done)
+- Supports conditional updates and structured validation
+- Designed clean API responses and error handling
+🔷 FastAPI Invoice API
+- Handles invoice creation and structured data validation
+- Implements business logic for managing invoice data
+- Built with scalable API design principles
+📦 OTHER PROJECTS
+- product API - CRUD operations with validations
+- Validation API - Pydantic-based input validation practice
 ## 🎯Goal 
 Junior AI engineer at an AI startup by late 2026
 ## 🛜 Connect
