@@ -1,30 +1,38 @@
 # Hi, Im Tajik Tungi 👋
-"Backend developer from Arunachal Pradesh building production APIs with FastAPI and moving toward AI engineering.currently learning postgreSQL and LLM integration."
+"Backend developer from Arunachal Pradesh building production-ready APIs with FastAPI,PostgreSQL and Async SQLALchemy. currently transitioning into ai engineering with a strong backend foundation."
 ## 🛠️ Tech Stack
 - **Language:** Python
-- **Backend:** FastAPI,REST APIs
-- **Database:** PostgreSQL(learning)
-- **Tools:** Git, Github, Pydantic
+- **Backend:** FastAPI,REST APIs,Async SQLALchemy,pydantic
+- **Database:** PostgreSQL,alembic
+- **Testing:** Pytest
+- **Tools:** Git, Github, JWT Authentication
 ## 🚀Currently
--Building real-world fastapi projects
--Learning postgreSQL and database integration
-- Working toward Rag and LLM agent development
+- Building production-grade backend systems
+- writing comprehensive API tests with Pytest
+- Designing scalable backend architectures
+- Preparing for LLM,RAG and AI Agent development
 ## 📌 Featured Projects
-## 🔷 FastAPI Task manager API
-- Built a task management system with status tracking(pending/done)
-- Supports conditional updates and structured validation
-- Designed clean API responses and error handling
-## 🔷 FastAPI Invoice API
-- Handles invoice creation and structured data validation
-- Implements business logic for managing invoice data
-- Built with scalable API design principles
-## 📦 OTHER PROJECTS
-- product API - CRUD operations with validations
-- Validation API - Pydantic-based input validation practice
+## 🔷 Task-management-api
+- A production-style task management backend built with FastAPI
+# Features
+- JWT Authentication
+- User Authorization
+- Crud operations
+- Multi-tenancy
+- Filtering
+- Pagination
+- Sorting
+- Async SQLALchemy
+- PostgreSQL
+- Alembic Migrations
+- Comprehensive Pytest Test Suite
 ## 🎯Goal 
-Junior AI engineer at an AI startup by late 2026
+Become a backend/ai engineer building scalable AI-powered applications with FastAPI,LLMs,RAG systems,and AI agents.
 ## 🛜 Connect
-Open to opportunities and collaborations
-
+** open to
+-backend development
+-ai engineering
+- open source
+- learning opportunities
 
 
